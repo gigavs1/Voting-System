@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\bin\Debug\logIn.exe.config
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\bin\Debug\logIn.exe
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\bin\Debug\logIn.pdb
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.Form1.resources
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.Properties.Resources.resources
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.exe
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.pdb
+C:\Users\Asus\Desktop\PROJECT (VOTING)\logIn\logIn\obj\Debug\logIn.message.resources
